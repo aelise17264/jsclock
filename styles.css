@@ -23,9 +23,9 @@ body {
     padding: 1%;
     color: slategray;
     background: cornsilk;
-    width: 20vw;
     font-size: 4rem;
     margin-top: 5%;
+    opacity: .85;
   }
 
   .clock {
