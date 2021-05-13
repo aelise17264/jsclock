@@ -1,5 +1,5 @@
  html{
-    background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
+    background: cornsilk url(https://wallpaperaccess.com/full/1089635.png);
     background-size: cover;
     font-family: helvetica neue;
     text-align: center;
@@ -23,7 +23,7 @@ body {
     background-color: antiquewhite;
     margin: 0 auto;
     position: relative;
-    border:20px solid cornsilk;
+    border:20px solid #CC5500;
  
   }
 
@@ -78,7 +78,7 @@ body {
   .second{
     width: 2px;
     height: 120px;
-    background-color:red;
+    background-color:#f55c47;
     transform-origin: bottom center;
     border-radius: 4px;
     position: absolute;
@@ -95,12 +95,14 @@ body {
 }
   ul li{
     position: absolute;
+    padding-top: 1%;
     width:20px;
     height:20px;
     text-align: center;
     line-height: 20px;
     font-size: 15px;
-    color:red;
+    font-weight: bold;
+    color:slategray;
 }
   ul li:nth-child(1){
     right: 22%;
@@ -113,7 +115,7 @@ body {
   ul li:nth-child(3){
     right: 1%;
     top:calc(50% - 10px);
-    color:#000;
+    color:#f55c47;
     font-size: 20px;
     font-weight: bold;
 }
@@ -128,7 +130,7 @@ body {
   ul li:nth-child(6){
     right: calc(50% - 10px);
     top:calc(99% - 20px);
-    color:#000;
+    color:#f55c47;
     font-size: 20px;
     font-weight: bold;
 }
@@ -143,7 +145,7 @@ body {
   ul li:nth-child(9){
     left: 1%;
     top:calc(50% - 10px);
-    color:#000;
+    color:#f55c47;
     font-size: 20px;
     font-weight: bold;
 }
@@ -158,7 +160,7 @@ body {
   ul li:nth-child(12){
     right: calc(50% - 10px);
     top:1%;
-    color:#000;
+    color:#f55c47;
     font-size: 20px;
     font-weight: bold;
 }
