@@ -20,11 +20,11 @@ body {
   h1{
     align-items: center;
     text-align: center;
-    padding-top: 1%;
+    padding: 1%;
     color: slategray;
     background: cornsilk;
     width: 20vw;
-    height: 8vh;
+    font-size: 4rem;
     margin-top: 5%;
   }
 
