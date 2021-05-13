@@ -11,9 +11,21 @@ body {
     margin: 0;
     font-size: 2rem;
     display: flex;
+    flex-direction: column;
     flex: 1;
     min-height: 100vh;
     align-items: center;
+  }
+
+  h1{
+    align-items: center;
+    text-align: center;
+    padding-top: 1%;
+    color: slategray;
+    background: cornsilk;
+    width: 20vw;
+    height: 8vh;
+    margin-top: 5%;
   }
 
   .clock {
